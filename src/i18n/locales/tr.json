@@ -6591,5 +6591,6 @@
   "Не удалось загрузить фон: {error}": "Arka plan yüklenemedi: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Bir sürüm ve yükleyici seç — Minecraft, Java ve yükleyiciyi senin için kuruyoruz. Ya da başka bir başlatıcıdan mod paketi içe aktar veya hazır bir tane kur.",
   "Импорт из лаунчера": "Başlatıcıdan içe aktar",
-  "Готовая сборка": "Hazır mod paketi"
+  "Готовая сборка": "Hazır mod paketi",
+  "Preview builds may contain unfinished changes": "Önizleme sürümleri tamamlanmamış değişiklikler içerebilir"
 }

@@ -6594,5 +6594,6 @@
   "Не удалось загрузить фон: {error}": "Không tải được hình nền: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Chọn phiên bản và trình tải — chúng tôi cài Minecraft, Java và trình tải cho bạn. Hoặc nhập modpack từ launcher khác, hoặc cài một modpack có sẵn.",
   "Импорт из лаунчера": "Nhập từ launcher",
-  "Готовая сборка": "Modpack có sẵn"
+  "Готовая сборка": "Modpack có sẵn",
+  "Preview builds may contain unfinished changes": "Bản dựng xem trước có thể chứa các thay đổi chưa hoàn thiện"
 }

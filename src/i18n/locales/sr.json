@@ -6591,5 +6591,6 @@
   "Не удалось загрузить фон: {error}": "Pozadina nije učitana: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Izaberi verziju i loader — Minecraft, Javu i loader instaliramo za tebe. Ili uvezi modpack iz drugog launchera, ili instaliraj gotov.",
   "Импорт из лаунчера": "Uvoz iz launchera",
-  "Готовая сборка": "Gotov modpack"
+  "Готовая сборка": "Gotov modpack",
+  "Preview builds may contain unfinished changes": "Probne verzije mogu sadržati nedovršene izmene"
 }

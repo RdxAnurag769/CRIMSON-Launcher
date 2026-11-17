@@ -6591,5 +6591,6 @@
   "Не удалось загрузить фон: {error}": "No se pudo cargar el fondo: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Elige una versión y un cargador — instalamos Minecraft, Java y el cargador por ti. O importa un modpack de otro launcher, o instala uno ya hecho.",
   "Импорт из лаунчера": "Importar desde un launcher",
-  "Готовая сборка": "Modpack ya hecho"
+  "Готовая сборка": "Modpack ya hecho",
+  "Preview builds may contain unfinished changes": "Las versiones preliminares pueden contener cambios sin terminar"
 }

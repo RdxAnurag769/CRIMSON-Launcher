@@ -34,6 +34,6 @@ describe('identifierRequirement', () => {
 test('требование подписи лаунчера не меняется от сборки к сборке', () => {
   const { identifier } = JSON.parse(readFileSync(join(tauriDir, 'tauri.conf.json'), 'utf8'))
   expect(identifierRequirement(identifier).toString('hex')).toBe(
-    'fade0c00000000280000000100000002000000146e65742e6d696c6c6964612e6c61756e63686572',
+    'fade0c000000003400000001000000020000001d636f6d2e726478616e757261672e6372696d736f6e6c61756e63686572000000'
   )
 })

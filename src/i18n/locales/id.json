@@ -6595,5 +6595,6 @@
   "Не удалось загрузить фон: {error}": "Gagal memuat latar: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Pilih versi dan loader — kami pasang Minecraft, Java, dan loader untukmu. Atau impor modpack dari launcher lain, atau pasang yang sudah jadi.",
   "Импорт из лаунчера": "Impor dari launcher",
-  "Готовая сборка": "Modpack siap pakai"
+  "Готовая сборка": "Modpack siap pakai",
+  "Preview builds may contain unfinished changes": "Build pratinjau mungkin berisi perubahan yang belum selesai"
 }

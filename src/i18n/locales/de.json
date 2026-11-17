@@ -6591,5 +6591,6 @@
   "Не удалось загрузить фон: {error}": "Hintergrund konnte nicht geladen werden: {error}",
   "Выбери версию и загрузчик — Minecraft, Java и загрузчик поставим сами. Или импортируй сборку из другого лаунчера, или поставь готовую сборку.": "Wähle Version und Loader — Minecraft, Java und Loader installieren wir für dich. Oder importiere ein Modpack aus einem anderen Launcher oder installiere ein fertiges.",
   "Импорт из лаунчера": "Aus Launcher importieren",
-  "Готовая сборка": "Fertiges Modpack"
+  "Готовая сборка": "Fertiges Modpack",
+  "Preview builds may contain unfinished changes": "Vorschauversionen können unfertige Änderungen enthalten"
 }
