@@ -1,0 +1,14 @@
+# CRIMSON Launcher icon integration
+
+The supplied CRIMSON Launcher 1024x1024 PNG has been added to this source archive.
+
+Updated:
+- `src-tauri/icons/icon.png` (Tauri main raster icon)
+- Android launcher icon resources in `src-tauri/icons/android/` for mdpi, hdpi, xhdpi, xxhdpi and xxxhdpi:
+  - `ic_launcher.png`
+  - `ic_launcher_round.png`
+  - `ic_launcher_foreground.png`
+- Added the original 1024x1024 artwork at `branding/CRIMSON-Launcher-Icon-1024.png`
+
+This is an asset integration only. It does not mean an Android APK has been built or tested.
+The Android adaptive-icon XML/background and the rest of the application configuration are retained from the supplied source.
