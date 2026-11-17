@@ -1,6 +1,6 @@
 //! Development only: the launcher's now-playing socket without the launcher,
 //! so a mod started with `gradle runClient` shows the music island.
-//! The port and key go to ~/.millida-dev-media.json, which the mod's Fabric
+//! The port and key go to ~/.crimson-dev-media.json, which the mod's Fabric
 //! run configs read; the file is removed on Ctrl+C.
 
 use millida_launcher_lib::engine::MediaLink;
@@ -9,8 +9,8 @@ use std::path::{Path, PathBuf};
 
 fn file_path() -> Result<PathBuf, String> {
     dirs::home_dir()
-        .map(|home| home.join(".millida-dev-media.json"))
-        .ok_or_else(|| "no home directory to write .millida-dev-media.json into".to_string())
+        .map(|home| home.join(".crimson-dev-media.json"))
+        .ok_or_else(|| "no home directory to write .crimson-dev-media.json into".to_string())
 }
 
 fn write_private(path: &Path, text: &str) -> std::io::Result<()> {
